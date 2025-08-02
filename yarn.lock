@@ -5501,6 +5501,11 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
+"react-native-svga-player@npm:rn-newarch-svga-player@1.1.6":
+  version "1.1.6"
+  resolved "https://registry.yarnpkg.com/rn-newarch-svga-player/-/rn-newarch-svga-player-1.1.6.tgz#e53df048262fc21fadd3f00e7a24e3cad52752cd"
+  integrity sha512-yKoOTzifQA15DhfCiBYUsw9gwtcox5xiQXsEO4uDfe9B7JyTn2mP/MLBj3jkngsQMVF/kokE2LLhLQs2Udpwtg==
+
 react-native@0.77.0:
   version "0.77.0"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.77.0.tgz#ef194e6305cefde43d7ba5d242ceb9a1fddf9578"
@@ -5739,9 +5744,6 @@ rimraf@^3.0.2:
   integrity sha512-JZkJMZkAGFFPP2YqXZXPbMlMBgsxzE8ILs4lMIX/2o0L9UBw9O/Y3o6wFw/i9YLapcUJWwqbi3kdxIPdC62TIA==
   dependencies:
     glob "^7.1.3"
-
-"rn-newarch-svga-player@file:./Fabric/SvgaPlayer":
-  version "1.1.7"
 
 run-parallel@^1.1.9:
   version "1.2.0"
